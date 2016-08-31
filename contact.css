@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+ body{
+     background:url('https://thedelhibride.files.wordpress.com/2015/07/arpita-mehta-new-collection-2014-e1436685286572.jpg?w=490&h=368');
+    background-size: cover;
+    background-repeat: no-repeat;}
+    .header {
+        color: #36A0FF;
+        font-size: 27px;
+        padding: 10px;
+    }
+
+    .bigicon {
+        font-size: 35px;
+        color: #36A0FF;
+    }

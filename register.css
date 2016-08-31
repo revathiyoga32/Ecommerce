@@ -1,0 +1,6 @@
+@CHARSET "ISO-8859-1";
+ body {
+    background:url('http://www.barcelonaguidebureau.com/wp-content/uploads/2016/03/shopping-tour_6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;}
+.form-control { margin-bottom: 10px; }
