@@ -1,0 +1,7 @@
+@CHARSET "ISO-8859-1";
+ body {
+    background:url('/resources/images/tour.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    }
+.form-control { margin-bottom: 10px; }
